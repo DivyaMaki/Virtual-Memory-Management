@@ -1,9 +1,9 @@
 # Virtual-Memory-Management
   
-  A C++ - based simulation of page replacement algorithms (FIFO, LRU, and Optimal) with a graphical user interface built using GTK+. This project visualizes memory management concepts, including page tables, main memory, and secondary memory, while tracking page hits and faults. Ideal for educational purposes in operating systems courses.
+  A C++ based simulation of page replacement algorithms (FIFO, LRU, and Optimal) with a graphical user interface built using GTK+. This project visualizes memory   management concepts, including page tables, main memory, and secondary memory, while tracking page hits and faults. Ideal for educational purposes in operating systems courses.
 
 Features:
-
+```
   - Supports FIFO, LRU, and Optimal page replacement algorithms
   
   - GUI-based memory access simulation using GTK
@@ -13,17 +13,17 @@ Features:
   - Tracks Page Faults and Page Hits
   
   - Allows users to enter logical addresses and choose an algorithm dynamically
-
+```
 Technologies Used:
-
+```
   - C Programming
   
   - GTK (for GUI development)
   
   - Memory Management Concepts (Page Tables, Virtual Memory, Page Replacement)
-
+```
 Usage:
-
+```
   - Enter a logical address in the text box.
   
   - Select a page replacement algorithm (FIFO, LRU, or Optimal).
@@ -33,7 +33,7 @@ Usage:
   - View Page Table, Main Memory, and Secondary Memory updates in real-time.
   
   - Click "Reset" to clear memory and restart the simulation.
-
+```
 Screenshots:
   
   Flowchart:
